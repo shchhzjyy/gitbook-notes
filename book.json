@@ -1,0 +1,8 @@
+{
+    "title":    "Notes",
+    "language": "zh",
+    "plugins": [
+        "splitter", 
+        "expandable-chapters"
+    ]
+}
